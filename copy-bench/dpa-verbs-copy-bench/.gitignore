@@ -1,0 +1,4 @@
+build/
+build_renamed/
+.venv/
+results/*
