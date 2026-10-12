@@ -1,5 +1,7 @@
 # DPA Characterization
 
+> Temporary anonymous repository for paper: Characterizing and Modeling Data Path Accelerators: What Computation and Data Movement Are Worth Offloading?
+
 Benchmarks and experiments for the DPA on NVIDIA BlueField-3, using the DOCA SDK and FlexIO.
 
 ## Compute and Thread Benchmarks
